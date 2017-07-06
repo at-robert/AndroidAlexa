@@ -53,3 +53,8 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+
+# Mac OS Auto gen files
+.DS_Store
+._.DS_Store
+
