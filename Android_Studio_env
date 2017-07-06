@@ -1,0 +1,12 @@
+[To move the project to another location]
+
+Copy the project directory from source to destination machine. Then follow the steps.
+
+Open Android Studio
+Go to File - > Open
+Browse to the project location.
+Select build.gradle and open.
+Android Studio will automatically make the necessary changes for the target machine and set up the project.
+
+NOTE : It usually confuses the first timers, as after copying project files into target machine, when you try to open the project, 
+it considers it as a normal directory, not as android project.
