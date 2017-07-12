@@ -19,3 +19,11 @@ Gradle Script : This script files are used for the building code process.
 Id: To be used for idenitfy by other widgets
 Margin setting:
 
+
+[Formatting Text]
+TextViewID
+textSize: sp (scable independent pixel)
+backgroud: color change
+alpha: transparency 
+
+[Buttons]
