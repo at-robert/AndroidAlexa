@@ -19,3 +19,13 @@ Gradle Script : This script files are used for the building code process.
 Id: To be used for idenitfy by other widgets
 Margin setting:
 
+[Display Message]
+Toast: Toast.MakeText
+
+[ImageView]
+
+
+[Java Deep dive]
+www.browxy.com // online Jave compiler
+// To register in this website in order to share and store your Java code easiler. 
+
