@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 #Sat Jul 15 15:30:29 CST 2017
+=======
+#Thu Jul 13 00:14:14 CST 2017
+>>>>>>> 2f636f1e6ed32412b3248254451dccbff63543b8
 connection.gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
 connection.project.dir=
