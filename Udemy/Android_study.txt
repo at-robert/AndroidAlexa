@@ -27,3 +27,7 @@ backgroud: color change
 alpha: transparency 
 
 [Buttons]
+To create a Button widget and then implement a OnClick function 
+
+[ImageView]
+To create a imageview widget for displaying a picture. 
